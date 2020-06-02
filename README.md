@@ -3,7 +3,7 @@ My learning notes about tensorflow from Coursera's Course - Introduction to Tens
 
 Machine Learning Course and Deep Learning Specialization from Andrew Ng teaches me best practices for using TensorFlow, a popular open-source framework for machine learning, and how to use TensorFlow to implement Machine Learning and Deep Learning principles so that I can start building and applying scalable models to real-world problems.
 
-Instructor: Laurence Moroney @lmoroney (AI Advocate - Google Brain)
+Instructor: Laurence Moroney (AI Advocate - Google Brain)
 
 What I have learned: 
 - Learn best practices for using TensorFlow, a popular open-source machine learning framework
